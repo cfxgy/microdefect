@@ -155,7 +155,6 @@ datasets/
     test_defect/
 ```
 
-`datasets/` is ignored by Git.
 
 ### Run
 
