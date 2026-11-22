@@ -1,0 +1,42 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# 数据、权重、实验缓存
+data/
+datasets/
+experiments/
+cache/
+memory/
+checkpoints/
+logs/
+torchinductor_*/
+pip-*/
+tmp_cache_test_*/
+*.pt
+*.pth
+*.onnx
+*.npy
+*.npz
+*.zip
+*.7z
+
+# 比赛/个人材料
+比赛提交材料/
+建模文件/
+项目思路.docx
+1790068259-*.docx
+
+# 密钥与系统文件
+.env
+.env.*
+*.key
+*.pem
+.DS_Store
+Thumbs.db
+desktop.ini

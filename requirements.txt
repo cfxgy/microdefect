@@ -1,0 +1,8 @@
+streamlit>=1.67
+torch>=2.0
+torchvision>=0.15
+numpy>=2.0
+Pillow>=10.0
+pandas>=2.0
+opencv-python>=4.8
+matplotlib>=3.8
